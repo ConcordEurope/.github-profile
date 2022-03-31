@@ -2,7 +2,7 @@
 
 # Hi. We're [CONCORD Europe](https://www.concordeu.com/) 👋
 
-(.github-profile/what we do.jpg)
+![image](.github-profile/what we do.jpg)
 
 
 ## Our story 🚀
