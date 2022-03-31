@@ -2,7 +2,7 @@
 
 # Hi. We're [CONCORD Europe](https://www.concordeu.com/) 👋
 
-![This is what we do](.github-profile/what we do.jpg)
+(.github-profile/what we do.jpg)
 
 
 ## Our story 🚀
@@ -30,4 +30,4 @@ Every quarter each employee of the company can nominate a non-plrofit organizati
 
 Do you want to be a part of our family and something awesome? 💙<br>
 ![Why join us](.github-profile/something awesome.jpg)
-Send us your resume to [jobs@concordeu.com](jobs@concordeu.com)  
+Send us your resume to jobs@concordeu.com.
