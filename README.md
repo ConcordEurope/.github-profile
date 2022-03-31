@@ -4,6 +4,8 @@
 
 [[https://github.com/ConcordEurope/.github-profile/blob/main/what%20we%20do.jpg]]
 
+![alt text](https://github.com/ConcordEurope/.github-profile/blob/main/what%20we%20do.jpg)
+
 
 ## Our story 🚀
 CONCORD offers technical services that help a myriad of business in their optimization. The company is a preferred employer, as it has always been offering a nice woking atmosphere and a multitude of social benefits.
