@@ -8,7 +8,7 @@
 ## Our story 🚀
 CONCORD offers technical services that help a myriad of business in their optimization. The company is a preferred employer, as it has always been offering a nice woking atmosphere and a multitude of social benefits.
 
-The employees are proud to be a part of CONCORD Europe, as they get an opportunity for their career development here, choice of industry they want to work in, freedom to express their ideas, that a well established company like ConCord Europe can offer.<br>
+The employees are proud to be a part of CONCORD Europe, as they get an opportunity for their career development here, choice of industry they want to work in, freedom to express their ideas, that a well established company like Conцord Europe can offer.<br>
 
 ![Our office](https://github.com/ConcordEurope/.github-profile/blob/main/Office.jpg)</br>
 
